@@ -1,5 +1,5 @@
-# MySQL
-Curso SQL en CoderHouse
+
+![titulo_er](https://github.com/RonnieAlvarez/MySQL/assets/109872028/9f4a808b-acde-482c-bb2d-d510ade55614)
 
 ![1pre](https://github.com/RonnieAlvarez/MySQL/assets/109872028/cd2ee293-9010-40b2-8ab9-b169a62c2393)
 
